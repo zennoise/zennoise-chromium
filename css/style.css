@@ -1,0 +1,131 @@
+/*
+
+https://zennoise.github.io
+
+*/
+
+*,
+*:before,
+*:after {
+        -moz-box-sizing: border-box;
+        -webkit-box-sizing: border-box;
+        box-sizing: border-box;
+}
+
+#popup-content {
+        padding: 20px;
+        -webkit-transition: all 30s ease-in-out;
+        -o-transition: all 30s ease-in-out;
+        transition: all 30s ease-in-out;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+}
+
+body {
+        font-family: 'Raleway', sans-serif;
+        background-color: #009B76;
+        color: rgb(255, 255, 255);
+        margin: 0;
+        padding: 0;
+        min-width: 280px;
+        min-height: 240px;
+}
+
+
+.zennoise-button {
+        font-family: 'Raleway', sans-serif;
+        font-size: 15px;
+        text-decoration: none;
+        text-overflow: ellipsis;
+        color: rgba(255, 255, 255, 1);
+        display: inline-block;
+        width: 100%;
+        height: 40px;
+        line-height: 40px;
+        margin: 0 auto 15px;
+        padding: 0 20px;
+        border: none;
+        border-radius: 25px;
+        text-align: center;
+        cursor: pointer;
+        background-color: #03a87f;
+}
+
+.zennoise-button:focus {
+        border: none;
+        outline: none;
+}
+
+.zennoise-button:hover {
+        background-color: #098969;
+}
+
+p {
+        font-size: 15px;
+        margin-bottom: 0;
+        margin-top: 10px;
+}
+
+ul {
+        margin: 0;
+        padding: 0;
+}
+
+ul li {
+        display: inline;
+        list-style-type: none;
+}
+
+
+
+#info {
+        position: absolute;
+        right: 20px;
+        bottom: 29px;
+        font-size: 15px;
+        width: 22px;
+        height: 22px;
+        -webkit-border-radius: 25px;
+        -moz-border-radius: 25px;
+        border-radius: 25px;
+        border: 1px solid white;
+        overflow: hidden;
+        line-height: 20px;
+        /* подробнее про line-height */
+        text-align: center;
+        /* выравнять текст по середине по горизонтали */
+        cursor: pointer;
+}
+
+#info:hover {
+        background-color: #098969;
+}
+
+
+.combo-active {
+        background-color: rgba(255, 255, 255, 0.25);
+}
+
+#stop {
+        width: 50%;
+        position: relative;
+        top: 10px;
+}
+
+#square {
+        width: 17px;
+        height: 17px;
+        background: #70c7a1;
+        margin-left: 7px;
+        left: 3px;
+        position: relative;
+        top: 11px;
+}
+
+#stop_text {
+        position: relative;
+        left: 16px;
+        bottom: 18px;
+}
