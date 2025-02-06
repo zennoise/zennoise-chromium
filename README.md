@@ -16,7 +16,6 @@ A browser extension for relaxing with nice background sounds (rain and thunder, 
 Did you find a mistake or have a suggestion? Write me, please!
 
 email: [nullbsd@gmail.com](mailto:nullbsd@gmail.com)<br>
-telegram: [@gnupg](http://t.me/gnupg)
 
 ## Donate
 
