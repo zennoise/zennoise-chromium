@@ -22,19 +22,9 @@ telegram: [@gnupg](http://t.me/gnupg)
 
 You can thank me, for example, a cup of coffee :)
 
-### paypal
-
-<a href="mailto:mathematics1688@gmail.com">mathematics1688@gmail.com</a>
-
 ### bitcoin
 
-`1NYYFoJiRPnkmFbcv5kYLqwsweix1cVmBT`
-
-### webmoney
-
-WMZ: `Z156396869707`<br>
-WMR: `R409106892241`<br>
-WME: `E320058433666`<br>
+`bc1qs7v6vfp0xpe2slcpwlhftdeqj2w92r3pkykjn6`
 
 ### other currency?
 
