@@ -15,7 +15,7 @@ A browser extension for relaxing with nice background sounds (rain and thunder, 
 
 Did you find a mistake or have a suggestion? Write me, please!
 
-email: [nullbsd@gmail.com](mailto:nullbsd@gmail.com)<br>
+email: [target-dropper-eel@duck.com](mailto:target-dropper-eel@duck.com)<br>
 
 ## Donate
 
@@ -27,7 +27,7 @@ You can thank me, for example, a cup of coffee :)
 
 ### other currency?
 
-Please <a href="mailto:nullbsd@gmail.com">let me know</a> in which currency it is convenient for you to make a donation.
+Please <a href="mailto:target-dropper-eel@duck.com">let me know</a> in which currency it is convenient for you to make a donation.
 
 
 ## Thanks
